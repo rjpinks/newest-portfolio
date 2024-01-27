@@ -145,6 +145,7 @@ a {
     display: flex;
     flex-direction: row;
     justify-content: center;
+    margin-bottom: 12px;
 }
 
 .bio-container {
@@ -250,6 +251,11 @@ iframe {
     min-width: 420px;
 }
 
+#inventation {
+    display: flex;
+    justify-content: center;
+}
+
 /* Contact Stylings */
 
 #contact-header {
@@ -290,5 +296,5 @@ img {
 
 #image-to-pad {
     margin-bottom: 15px;
-    margin-left: 25%;
+    margin-right: 25%;
 }
